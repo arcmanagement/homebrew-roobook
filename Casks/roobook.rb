@@ -1,6 +1,6 @@
 cask "roobook" do
-  version "1.0.4,23"
-  sha256 "4fe1435387918923e58085c7e848c541bf45b330e2bc499d1cc354a1c75d00eb"
+  version "1.0.5,24"
+  sha256 "8c3d7123444d010b4a0cc47a5e5e39c456401b6212f648e0682cc8673ae615f5"
 
   url "https://storage.googleapis.com/roobookapp-roobook-public/releases/v#{version.csv.first}/RooBook-#{version.csv.first}-macos-arm64.dmg"
   name "RooBook"
